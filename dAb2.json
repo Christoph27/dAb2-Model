@@ -1857,6 +1857,23 @@
         "Organism|Brain|dAb2|Whole Organ incl. FcRn_Complex-dAb2",
         "Organism|Kidney|dAb2|Whole Organ incl. FcRn_Complex-dAb2"
       ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "dAb2_Sim_Kidney|Organism|Kidney|dAb2|Whole Organ incl. FcRn_Complex-dAb2",
+          "ObservedData": "Sepp2015_PBPK_dAb_PKSimImport.PKData.Kidney.QWBA.1"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "dAb2_Sim_Kidney|Organism|Kidney|dAb2|Whole Organ incl. FcRn_Complex-dAb2",
+          "ObservedData": "Sepp2015_PBPK_dAb_PKSimImport.PKData.Kidney.QWBA.2"
+        },
+        {
+          "Scaling": "Log",
+          "Path": "dAb2_Sim_Kidney|Organism|Kidney|dAb2|Whole Organ incl. FcRn_Complex-dAb2",
+          "ObservedData": "Sepp2015_PBPK_dAb_PKSimImport.PKData.Kidney.QWBA.3"
+        }
+      ],
       "Individual": "Mouse",
       "Compounds": [
         {
